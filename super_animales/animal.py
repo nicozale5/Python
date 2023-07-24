@@ -1,2 +1,3 @@
 class Animal:
-    pass
+    def __init__(self,nombre):
+        self.nombre = nombre
